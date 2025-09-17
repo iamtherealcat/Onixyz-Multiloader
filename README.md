@@ -116,6 +116,28 @@ The application uses a modular design that makes it easy to:
 
 ---
 
+## Related Projects
+
+Check out these similar multiloader projects for different approaches and implementations:
+
+### ImGui-based Multiloader
+**[iamtherealcat/imgui-multiloader](https://github.com/iamtherealcat/imgui-multiloader)**
+- ImGui-based multiloader with custom functions
+- Rebranded version for customer use
+- Based on Baikz's Aqua rework
+- MIT License
+
+### C# WinForms Multiloader
+**[iamtherealcat/C--CheatMultiloader-SupportTool](https://github.com/iamtherealcat/C--CheatMultiloader-SupportTool)**
+- First multiloader/support tool made in C# with WinForms
+- Legacy project from the "Oniware" brand
+- Good learning resource for C# implementations
+- MIT License
+
+> These projects showcase different approaches to multiloader development - from ImGui C++ implementations to C# WinForms applications.
+
+---
+
 ## Credits
 
 - **notaila** - For the ImGui login page/loader base foundation
